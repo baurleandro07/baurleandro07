@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @baurleandro07
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning python and C#
+- 💞️ I’m looking to collaborate on projects
+- 📫 i am not looking to make friends on this website, if you are interested to contact me though my instagramm is: "baurleandro"
